@@ -19,16 +19,12 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-
-
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: "ardikaarsa14@gmail.com"
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/a.arsaaaa/
   - icon: brands/github
@@ -37,9 +33,6 @@ profiles:
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
-
 interests:
   - Artificial Intelligence
   - Computational Linguistics
