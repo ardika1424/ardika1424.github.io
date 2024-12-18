@@ -29,10 +29,6 @@ profiles:
     url: https://www.instagram.com/a.arsaaaa/
   - icon: brands/github
     url: https://github.com/ardika1424
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
 interests:
   - Artificial Intelligence
   - Computational Linguistics
