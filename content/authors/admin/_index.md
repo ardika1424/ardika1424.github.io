@@ -50,41 +50,25 @@ education:
     date_end: 2023-05-14
     summary: |
       Saya pernah belajar di SMA N 01 SINGOROJO, saya masuk jurusan Ilmu Pengetahuan Sosial dan mempelajari sejarah sejarah dan berbagai macam lainnya.
-      
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ""
-    company_logo: ""
-    date_start: 2021-01-01
-    date_end: ""
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ""
-    company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: sortir paket
+    company_name: JNT express
+    date_start: 2023-05-06
+    date_end: 2023-08-12
+    summary:
+      Saya bekerja freelance kurang lebih 3 bulan di JNT express, saya bekerja dibagian sortir paket sesuai alamat tersebut
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C++
         description: ""
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: C
         description: ""
         percent: 100
         icon: chart-bar
@@ -110,12 +94,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Indonesia
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
