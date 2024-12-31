@@ -38,7 +38,7 @@ education:
   - area: Rekayasa Perangkat Lunak
     institution: Itesa Muhammadiyah Semarang
     date_start: 2023-09-25
-    date_end: saat ini saya masih menjadi Mahasiswa di itesa
+     saat ini saya masih menjadi Mahasiswa di itesa
     summary: |
       Jika berkuliah di Itesa Muhammadiyah Semarang, Anda akan mendapatkan Mata kuliah seperti berikut.
       - Algoritma dan struktur data 
