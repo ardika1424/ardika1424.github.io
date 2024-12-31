@@ -30,9 +30,9 @@ profiles:
   - icon: brands/github
     url: https://github.com/ardika1424
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Coding
+  - Game online 
+  - Figma Prototipy
 
 education:
   - area: Rekayasa Perangkat Lunak
