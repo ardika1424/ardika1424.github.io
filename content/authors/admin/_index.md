@@ -38,13 +38,12 @@ education:
   - area: Rekayasa Perangkat Lunak
     institution: Itesa Muhammadiyah Semarang
     date_start: 2023-09-25
-      saat ini saya masih menjadi Mahasiswa di itesa
+    date_end:
     summary: |
-      Jika berkuliah di Itesa Muhammadiyah Semarang, Anda akan mendapatkan Mata kuliah seperti berikut.
-        Algoritma dan struktur data 
-        Perancangan basis data
-        Desain UI/UX
-
+      Saat ini Saya student Itesa Muhammadiyah Semarang dan ambil jurusan Rekayasa Perangkat Lunak, saat ini saya berjalan semester 3 
+    button:
+      text: "Read about collage"
+      url: "https://pmb.itesa.ac.id/"
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -167,4 +166,4 @@ awards:
 
 ## About Me
 
-Hallo!, Perkenalkan saya Ardika Alaudin Arsa lahir 14 mei 2005, saya Mahasiswa dari REKAYASA PERANGKAT LUNAK (RPL) yang didalamnya itu mencakup coding, teknologi, dan masih banyak lagi mengenai digital. jika anda penasaran dengan REKAYASA PERANGKAT LUNAK, anda dapat mengakses blog ini.
+Hallo!, Perkenalkan saya Ardika Alaudin Arsa lahir 14 mei 2005, saya Mahasiswa dari REKAYASA PERANGKAT LUNAK (RPL) yang didalamnya itu mencakup coding, teknologi, dan masih banyak lagi mengenai digital. jika anda penasaran dengan REKAYASA PERANGKAT LUNAK, anda dapat mengakses blog ini. 
