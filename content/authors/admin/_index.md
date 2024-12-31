@@ -3,7 +3,7 @@
 title: ardika alaudin arsa
 
 # Name pronunciation (optional)
-name_pronunciation: kuntet
+name_pronunciation: Mahasiswa
 
 # Full name (for SEO)
 first_name: ardika
@@ -35,10 +35,10 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Rekayasa Perangkat Lunak
+    institution: Itesa Muhammadiyah Semarang
+    date_start: 2023-09-25
+    date_end: 2027-12-07
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -166,4 +166,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hallo!, Perkenalkan saya Ardika Alaudin Arsa lahir 14 mei 2005, saya Mahasiswa dari REKAYASA PERANGKAT LUNAK (RPL) yang didalamnya itu mencakup coding, teknologi, dan masih banyak lagi mengenai digital. jika anda penasaran dengan REKAYASA PERANGKAT LUNAK, anda dapat mengakses blog ini. 
