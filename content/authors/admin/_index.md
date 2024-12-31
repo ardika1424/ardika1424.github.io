@@ -38,12 +38,13 @@ education:
   - area: Rekayasa Perangkat Lunak
     institution: Itesa Muhammadiyah Semarang
     date_start: 2023-09-25
-    date_end: 2027-12-07
+    date_end: saat ini saya masih menjadi Mahasiswa di itesa
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: "Read Thesis"
-      url: "https://example.com"
+      Jika berkuliah di Itesa Muhammadiyah Semarang, Anda akan mendapatkan Mata kuliah seperti berikut.
+      - Algoritma dan struktur data 
+      - Perancangan basis data
+      - Desain UI/UX
+    
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
