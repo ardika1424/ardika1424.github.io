@@ -32,7 +32,7 @@ profiles:
 interests:
   - Coding
   - Game online 
-  - Figma Prototipy
+  - Figma Prototype
 
 education:
   - area: Rekayasa Perangkat Lunak
