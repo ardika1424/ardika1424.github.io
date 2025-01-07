@@ -58,12 +58,6 @@ work:
     date_end: 2023-08-12
     summary:
       Saya bekerja freelance kurang lebih 3 bulan di JNT express, saya bekerja dibagian sortir paket sesuai alamat tersebut
-- position: sortir paket
-    company_name: shopee express
-    date_start: 2023-08-17
-    date_end: 2023-09-10
-    summary: 
-      Saya bekerja di shopee express kurang lebih 1 bulan, dikarenakan menunggu jadwal masuk kuliah di Itesa Muhammadiyah Semarang
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
