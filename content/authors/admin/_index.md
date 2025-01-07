@@ -62,7 +62,8 @@ work:
     company_name: shopee express
     date_start: 2023-08-17
     date_end: 2023-09-10
-    summary: Saya bekerja di shopee express kurang lebih 1 bulan, dikarenakan menunggu jadwal masuk kuliah di Itesa Muhammadiyah Semarang
+    summary: 
+      Saya bekerja di shopee express kurang lebih 1 bulan, dikarenakan menunggu jadwal masuk kuliah di Itesa Muhammadiyah Semarang
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
