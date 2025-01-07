@@ -57,7 +57,17 @@ work:
     date_start: 2023-05-06
     date_end: 2023-08-12
     summary:
-      Saya bekerja freelance kurang lebih 3 bulan di JNT express, saya bekerja dibagian sortir paket sesuai alamat tersebut
+      Saya bekerja freelance kurang lebih 3 bulan di JNT express, saya mengsortir paket sesuai kode yang ada di paket tersebut.
+
+  - position: pelayan makanan
+    company_name: soto sawah
+    date_start: 2022-01-04
+    date_end: 2023-04-20
+    summary:
+      Responsibilities include:
+      - mengantar pesanan 
+      - membersihkan meja makan pengunjung
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
