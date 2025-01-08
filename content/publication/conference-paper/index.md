@@ -31,8 +31,7 @@ publication_short: In *ICW*
 # Summary. An optional shortened abstract.
 summary: Dokumen ini isinya struktur dasar ggplot2 dan beberapa contoh codingan beserta gambarnya.
 
-tags:
-  - Large Language Models
+
 
 # Display this page in the Featured widget?
 featured: true
