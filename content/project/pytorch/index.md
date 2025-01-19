@@ -1,6 +1,6 @@
 ---
 title: Belajar Data visualziation dengan GGPLOT2
-date: 2025 - 01 - 02
+date: 2025-01-02
 external_link: https://docs.google.com/presentation/d/1_kWIn2ExzuE6OM4EcOSUjcFcIcr-6kHl/edit?usp=drive_link&ouid=112024741470900748338&rtpof=true&sd=true
 tags:
   - Hugo
