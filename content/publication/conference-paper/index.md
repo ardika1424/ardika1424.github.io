@@ -1,10 +1,11 @@
 ---
-title: "Belajar Data visualziation dengan ggplot2"
+title: "WIDEMA (Wifi Desa Makmur) : Strategi Pembangunan Menuju Desa Berkemajuan dan Makmur "
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Muhamad Ibnu Hajar
   - Ardika Alaudin Arsa
 
 # Author notes (optional)
@@ -12,24 +13,24 @@ author_notes:
   - "Equal contribution"
   - "Equal contribution"
 
-date: "2025-01-02T00:00:00Z"
+date: "2024-10-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-02T00:00:00Z"
+publishDate: "2024-10-24T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["Document"]
+publication_types: ["PDF"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Ardika Alaudin Arsa*
+publication: In *Muhamad Ibnu Hajar, Ardika Alaudin Arsa*
 publication_short: In *ICW*
 
 
 # Summary. An optional shortened abstract.
-summary: Dokumen ini isinya struktur dasar ggplot2 dan beberapa contoh codingan beserta gambarnya.
+summary: Essaay ini berisi tentang strategi pembangunan wifi menuju desa maju dan makmur
 
 
 
@@ -41,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_source: "https://ardika1424.github.io/dataviz_ggplot/"
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
