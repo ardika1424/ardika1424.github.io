@@ -1,13 +1,12 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: prototype balsamiq
+date: 2024-11-22
+external_link: https://docs.google.com/presentation/d/1_kWIn2ExzuE6OM4EcOSUjcFcIcr-6kHl/edit?usp=drive_link&ouid=112024741470900748338&rtpof=true&sd=true
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
+aplikasi ini memudahkan pengguna bagi yang malas untuk keluar rumah.
 <!--more-->
