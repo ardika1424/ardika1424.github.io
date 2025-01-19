@@ -3,7 +3,7 @@ title: "Belajar Data visualziation dengan GGPLOT2"
 authors:
 - Ardika Alaudin Arsa
 date: "2025-01-02T00:00:00Z"
-doi: ""
+doi: "2025-01-16"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-16T00:00:00Z"
