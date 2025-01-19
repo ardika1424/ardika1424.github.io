@@ -1,7 +1,7 @@
 ---
 title: Belajar Data visualziation dengan GGPLOT2
 date: 2025-01-02
-external_link: https://drive.google.com/file/d/1jAsIOq9uxVYQ-i75Dp2YvEAV0tgWxMqb/view?usp=drive_link
+external_link: https://ardika1424.github.io/dataviz_ggplot/
 tags:
   - Hugo
   - Wowchemy
