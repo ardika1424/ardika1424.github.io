@@ -30,7 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
