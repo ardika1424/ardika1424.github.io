@@ -11,7 +11,7 @@ last_name: alaudin arsa
 
 # Status emoji
 status:
-  icon: ![alt text](image.png)
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
