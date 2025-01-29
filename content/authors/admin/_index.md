@@ -64,15 +64,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: C++
+      - name: canva
         description: ""
         percent: 80
         icon: code-bracket
-      - name: C
+      - name: capcut
         description: ""
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: picsart
         description: ""
         percent: 40
         icon: circle-stack
