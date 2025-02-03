@@ -1,6 +1,6 @@
 ---
 title: WIDEMA (Wifi Desa Makmur) Strategi Pembangunan Menuju Desa Berkemajuan dan Makmur
-date: 2023-10-26
+date: 2024-10-19
 external_link: https://drive.google.com/file/d/19OEBS2mAVQGKTIPAJW6Of8vB0R6n9_dp/view?usp=drive_link
 tags:
   - Hugo
